@@ -1,0 +1,23 @@
+{
+    "code-runner.saveFileBeforeRun": true,
+    "vsicons.dontShowNewVersionMessage": true,
+    "workbench.colorTheme": "Pop Dark",
+    "workbench.colorCustomizations": {
+        "editor.foreground": "#ffffff",
+        "editorIndentGuide.background": "#003f1a",
+        // "editorRuler.foreground": "#f10000",
+        "activityBarBadge.background": "#a800a0",
+        "sideBarTitle.foreground": "#fffb00",
+        "titleBar.activeBackground": "#000000"
+    },
+    "editor.tokenColorCustomizations": {
+        "comments": "#00FF00"
+        
+            
+      
+            
+        
+    }
+    
+    
+}
