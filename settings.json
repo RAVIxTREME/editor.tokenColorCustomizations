@@ -2,6 +2,9 @@
     "code-runner.saveFileBeforeRun": true,
     "vsicons.dontShowNewVersionMessage": true,
     "workbench.colorTheme": "Pop Dark",
+    "editor.glyphMargin": false,
+    "editor.padding.left": 0,
+
     "workbench.colorCustomizations": {
 
         "editor.foreground": "#ffffff",
@@ -13,7 +16,11 @@
         "statusBar.background": "#0000003d",
         "statusBar.foreground": "#ffffff",
         "statusBar.noFolderBackground": "#000000",
-        "titleBar.activeBackground": "#000000"
+        "editorGutter.background": "#000000",
+        "editorIndentGuide.background1": "#003f1a",
+        
+
+        
     },
     "editor.tokenColorCustomizations": {
         "comments": "#00FF00"
