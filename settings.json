@@ -3,11 +3,16 @@
     "vsicons.dontShowNewVersionMessage": true,
     "workbench.colorTheme": "Pop Dark",
     "workbench.colorCustomizations": {
+
         "editor.foreground": "#ffffff",
         "editorIndentGuide.background": "#003f1a",
         // "editorRuler.foreground": "#f10000",
         "activityBarBadge.background": "#a800a0",
         "sideBarTitle.foreground": "#fffb00",
+        "titleBar.activeBackground": "#000000",
+        "statusBar.background": "#0000003d",
+        "statusBar.foreground": "#ffffff",
+        "statusBar.noFolderBackground": "#000000",
         "titleBar.activeBackground": "#000000"
     },
     "editor.tokenColorCustomizations": {
